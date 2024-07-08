@@ -1,5 +1,8 @@
 🔗Lok Sabha election 2024 Analysis Report
 
+🔗Tableau Dashboard Link ->
+https://public.tableau.com/app/profile/akash.b7815/viz/ElectionDataAnalysis2024/Dashboard1
+
 🚀This report delves into a comprehensive analysis of recent election data, aiming to uncover key insights that illuminate patterns, trends, and significant outcomes across states and constituencies.
 🚀Also presents key insights derived from an analysis of election data.
 🚀The analysis focuses on understanding voting patterns, candidate performance, and electoral competitiveness across states and constituencies.
